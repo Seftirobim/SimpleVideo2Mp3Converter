@@ -14,7 +14,7 @@
 
 # SimpleVideoToMp3Converter
 
-SimpleVideoToMp3Converter is a simple script for converting videos with the .mp4 extension and other supported extensions by FFepgm like(.mp4, .avi). However, this script only supports the ".mp4" extension, but you can add more extensions to the script.
+SimpleVideoToMp3Converter is a simple script for converting videos with the .mp4 extension and other supported extensions by FFmpeg like(.mp4, .avi). However, this script only supports the ".mp4" extension, but you can add more extensions to the script.
 
 - Uses Python 3
 - This script is once again assisted by chatGPT, and I have made some modifications.  
