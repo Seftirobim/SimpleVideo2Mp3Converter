@@ -26,8 +26,11 @@ SimpleVideoToMp3Converter is a simple script for converting videos with the .mp4
 - Run the script
 
 ```sh
-$ python SRMconvert.py
+$ python SRMconverter.py
 ```
+
+![Use konverter](https://github.com/Seftirobim/SimpleVideoToMp3Converter/assets/16395774/eb78a288-7502-4a93-84a0-b4df99193a7f)
+
 - Check the conversion results in the "converted" folder
 
 ## Installation requirements 
